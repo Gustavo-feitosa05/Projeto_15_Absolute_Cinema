@@ -1,4 +1,5 @@
 # 🎬 PROJETO: ABSOLUTE CINEMA
+![Cinema](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJuOTBlcnFmdXFtbzF4dWQ1ZmJwZHMxaHdxdDBreXV3OWh2M291byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JUXGVpncYAU8NJ6BWz/giphy.gif)
 
 ## 📋 ENUNCIADO DO PROJETO
 
